@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UICharts",
+	"Description": "Basic charts using Slate",
+	"Category": "Other",
+	"CreatedBy": "Timofej Jermolaev",
+	"CreatedByURL": "https://github.com/timofeji",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UICharts",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
